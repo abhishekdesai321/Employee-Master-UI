@@ -4,4 +4,4 @@ applications:
   memory: 256M
   instances: 1
   random-route: true
-  buildpack :staticfile_buildpack
+  buildpack: staticfile_buildpack
