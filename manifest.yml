@@ -3,5 +3,4 @@ applications:
 - name: employee-master-Angular
   memory: 256M
   instances: 1
-  random-route: true
   buildpack: staticfile_buildpack
